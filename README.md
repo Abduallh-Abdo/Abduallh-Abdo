@@ -77,7 +77,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Abduallh-Abdo/Abduallh-Abdo/output/snake.svg" alt="Snake animation" />
-
-###
